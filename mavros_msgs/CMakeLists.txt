@@ -45,6 +45,7 @@ add_message_files(
   RadioStatus.msg
   State.msg
   StatusText.msg
+  SKPControl.msg
   Thrust.msg
   TimesyncStatus.msg
   Trajectory.msg
